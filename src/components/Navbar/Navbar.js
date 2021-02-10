@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Button } from './Button';
+import { Button } from '../Button/Button';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
@@ -26,7 +26,7 @@ function NavBar() {
           <nav className='navbar'>
               <div className='navbar-container'>
                   <Link to='/' className='navbar-logo'>
-                      stayACTIVE<i class="fab fa-think-peaks"></i>
+                      stay<i class="fab fa-think-peaks">CTIVE  </i>
                   </Link>
                   <div className='.menu-icon' onClick={handleClick}>
                       <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -35,11 +35,6 @@ function NavBar() {
                         <li className='nav-item'>
                             <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                                 Home
-                            </Link>
-                        </li>
-                        <li className='nav-item'>
-                            <Link to='/aboutMe' className='nav-links' onClick={closeMobileMenu}>
-                                About Me
                             </Link>
                         </li>
                         <li className='nav-item'>
