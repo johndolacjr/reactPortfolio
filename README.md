@@ -1,8 +1,3 @@
-import ReactGhCal from 'react-github-calendar';
-<ReactGhCal username='johndolacjr'/>
-
-
-
 
 # Getting Started with Create React App
 
