@@ -10,7 +10,7 @@ import ReactGhCal from 'react-github-calendar';
 export default function Portfolio() {
   return (
   <>
-    <ReactGhCal username='johndolacjr'/>
+    <ReactGhCal username='johndolacjr' className="githubCommits"/>  
     <Cards />
     <Footer />
   </>

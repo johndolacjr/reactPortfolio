@@ -6,54 +6,62 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-      <div class='footer-links'>
+      <div className='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
           </div>
         </div>
       </div>
-      <section class='social-media'>
-        <div class='social-media-wrap'>
-          <div class='footer-logo'>
+      <section className='social-media'>
+        <div className='social-media-wrap'>
+          <div className='footer-logo'>
             
             <Link to='/' className='social-logo'>
               HUMBLE, ANALYTICAL, HARD WORKING, LOVER OF THE OUTDOORS, FAMILY MAN
             </Link>
-            
+
           </div>
-          <div class='social-icons'>
-          <Link
-              class='social-icon-link GitHub'
-              to='/'
+          <div className='social-icons'>
+          <a
+              className='social-icon-link GitHub'
+              href='https://github.com/johndolacjr'
               target='_blank'
               aria-label='GitHub'
             >
-              <i class="fab fa-github" />
-            </Link>
-          <Link
-              class='social-icon-link LinkedIn'
-              to='/'
+              <i className="fab fa-github" />
+            </a>
+          <a
+              className='social-icon-link LinkedIn'
+              href="https://www.linkedin.com/in/john-dolac-jr-56a0b81b/"
               target='_blank'
               aria-label='LinkedIn'
             >
-              <i class='fab fa-linkedin' />
-            </Link> 
-            <Link
-              class='social-icon-link instagram'
-              to='/'
+              <i className='fab fa-linkedin' />
+            </a> 
+            <a
+              className='social-icon-link instagram'
+              href='https://www.instagram.com/adventurefamslc/'
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
-            </Link>           
-            <Link
-              class='social-icon-link facebook'
-              to='/'
+              <i className='fab fa-instagram' />
+            </a>           
+            <a
+              className='social-icon-link facebook'
+              href='https://www.facebook.com/johnleeswagger'
               target='_blank'
               aria-label='Facebook'
             >
-              <i class='fab fa-facebook-f' />
-            </Link>
+              <i className='fab fa-facebook-f' />
+            </a>
+            <a
+              className='social-icon-link'
+              href='/src/components/Dolac_Resume_FINAL.pdf'
+              target='_blank'
+              aria-label='Resume'
+            >
+              <i className="far fa-file" />
+            </a>
           </div>
         </div>
       </section>
