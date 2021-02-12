@@ -44,7 +44,8 @@
     font-size: 100px;
   } */
 
-  .githubCommits {
+  .ReactGhCal {
     align-content: center;
     align-self: center;
+    color: blue;
   }

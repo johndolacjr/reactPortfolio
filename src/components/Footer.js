@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
+// import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
@@ -17,7 +17,7 @@ function Footer() {
           <div className='footer-logo'>
             
             <Link to='/' className='social-logo'>
-              HUMBLE, ANALYTICAL, HARD WORKING, LOVER OF THE OUTDOORS, FAMILY MAN
+              HUMBLE, ANALYTICAL, RESULTS DRIVEN, OUTDOORSY, FAMILY MAN
             </Link>
 
           </div>
