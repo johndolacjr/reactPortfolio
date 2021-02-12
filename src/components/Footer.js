@@ -56,7 +56,7 @@ function Footer() {
             </a>
             <a
               className='social-icon-link'
-              href='/src/components/Dolac_Resume_FINAL.pdf'
+              href='https://drive.google.com/file/d/1uvlM7sby-M57voPPdrtp8xuFdYiiQhI1/view?usp=sharing'
               target='_blank'
               aria-label='Resume'
             >
