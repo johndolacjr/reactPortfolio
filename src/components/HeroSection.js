@@ -11,7 +11,7 @@ function HeroSection() {
       <h1></h1>
       <p>Hello! I'm <strong>John Dolac</strong>, a <a href="https://www.youtube.com/watch?v=lsSC2vx7zFQ">motivated</a> leader and developer who likes to overcome challenges and simplify problems.</p>
       <br></br>
-      <p> I was raised in a military family where I learned the disciplines of loyalty, working hard, and taking responsibility for my actions. I haved lived all over the US and in Germany. After 
+      <p> I was raised in a military family where I learned the disciplines of loyalty, working hard, and taking on responsibility. I haved lived all over the US and in Germany. After 
         earning my Bachelors degree at Virginia Intermont College, I joined the military as a Horizantal Construction Engineer. Since then I have changed my MOS to Budget Management Technician which 
         gives me more opportunity to use my analytical passions. My desire to improve my analytical skills are what drove me to attend the Full Stack Development Bootcamp at the Unniversity of Utah. 
         This course has been intense but I have learned a lot and look forward to improving my coding abilities as the course winds down. </p>
