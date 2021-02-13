@@ -17,8 +17,7 @@
 ![image](https://user-images.githubusercontent.com/69832533/107858756-131bc680-6df3-11eb-949d-62d63d0c2a8b.png)
 
 ### Photography 
-   * Under Construction
-    * Will contain photos from my travels
+   * Under Construction - Will contain photos from my travels
 
 ### Footer
   * Contains
