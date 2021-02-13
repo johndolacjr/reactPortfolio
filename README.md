@@ -18,7 +18,7 @@
 
 ### Photography 
    * Under Construction
-    * Will contain photos from my travels 
+    * Will contain photos from my travels
 
 ### Footer
   * Contains
