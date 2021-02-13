@@ -12,6 +12,7 @@
 
 ### Portfolio 
   * Contains 
+    * GitHub Commit History
     * Work completed during my time as a developer
 ![image](https://user-images.githubusercontent.com/69832533/107858756-131bc680-6df3-11eb-949d-62d63d0c2a8b.png)
 
