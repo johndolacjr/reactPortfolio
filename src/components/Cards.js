@@ -46,9 +46,15 @@ function Cards() {
             <CardItem
               src='https://user-images.githubusercontent.com/69832533/105883085-aa93b380-5fc3-11eb-94db-733834a66d67.png'
               text='Track your budget using this budget tracking app'
-              label='Fincial'
+              label='Financial'
               path="https://powerful-mesa-84756.herokuapp.com/"
             />
+            {/* <CardItem
+              src=''
+              text='React Book Search App'
+              label='Reading'
+              path="https://rocky-springs-97887.herokuapp.com/"
+            /> */}
           </ul>
         </div>
       </div>
