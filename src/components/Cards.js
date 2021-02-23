@@ -49,12 +49,12 @@ function Cards() {
               label='Financial'
               path="https://powerful-mesa-84756.herokuapp.com/"
             />
-            {/* <CardItem
-              src=''
+            <CardItem
+              src='https://user-images.githubusercontent.com/69832533/108797891-95219300-7549-11eb-93b2-f18e0b605cb3.png'
               text='React Book Search App'
               label='Reading'
               path="https://rocky-springs-97887.herokuapp.com/"
-            /> */}
+            />
           </ul>
         </div>
       </div>
