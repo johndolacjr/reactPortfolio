@@ -37,23 +37,17 @@ function Cards() {
               label='Technology'
               path="https://github.com/johndolacjr/Dolac_Nodes.git"
             />
-            {/* <CardItem
-              src='https://user-images.githubusercontent.com/69832533/95670506-48648f00-0b49-11eb-8f72-0c5891e1a84b.png'
-              text='Test your JS knowledge using this short quiz'
-              label='Development'
-              path="https://johndolacjr.github.io/Dolac_Web_APIs/"
-            /> */}
-            <CardItem
-              src='https://user-images.githubusercontent.com/69832533/105883085-aa93b380-5fc3-11eb-94db-733834a66d67.png'
-              text='Track your budget using this budget tracking app'
-              label='Financial'
-              path="https://powerful-mesa-84756.herokuapp.com/"
-            />
             <CardItem
               src='https://user-images.githubusercontent.com/69832533/108797891-95219300-7549-11eb-93b2-f18e0b605cb3.png'
               text='React Book Search App'
               label='Reading'
               path="https://rocky-springs-97887.herokuapp.com/"
+            />
+            <CardItem
+              src='https://user-images.githubusercontent.com/69832533/105883085-aa93b380-5fc3-11eb-94db-733834a66d67.png'
+              text='Track your budget using this budget tracking app'
+              label='Financial'
+              path="https://powerful-mesa-84756.herokuapp.com/"
             />
           </ul>
         </div>
