@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/69832533/107858736-0bf4b880-6df3-11eb-80fe-5986550ed55e.png)
 
 ### Deployment Link 
-* https://gifted-varahamihira-61f221.netlify.app/portfolio
+* https://gifted-varahamihira-61f221.netlify.app
 
 ### GitHub Link 
 * https://github.com/johndolacjr/reactPortfolio.git
